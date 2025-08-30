@@ -43,6 +43,8 @@ backend/chat_histories/
 backend/uploads/
 *.wav
 *.log
+.gitignore
+*.gitignore
 
 # Ignore secrets and environment configs
 *.env
